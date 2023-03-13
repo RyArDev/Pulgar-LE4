@@ -1,3 +1,3 @@
-# Lab Exercise 3
+# Lab Exercise 4
 John Rhyz B. Pulgar
 IT128L
